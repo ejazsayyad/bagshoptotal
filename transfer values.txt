@@ -1,0 +1,14 @@
+//type this below intialize();under }
+ 
+if (str1 == null)
+            {
+                textBox9.Text = str;
+            }
+            else
+            {
+                textBox9.Text = str1;
+            }
+
+            textBox6.Text = val1;
+            textBox7.Text = val2;
+            textBox8.Text = val3;
